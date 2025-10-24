@@ -7,7 +7,7 @@ set -e
 
 # Configuration
 SOURCE_CSV="exported_burns_db.csv"
-RPC_URL="https://rpc.mainnet.x1.xyz"
+RPC_URL="https://rpc.testnet.x1.xyz"
 WALLET_PATH="$HOME/.config/solana/id.json"
 AMOUNT="1"  # 1 XNT to send to each address
 
